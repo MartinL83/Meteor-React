@@ -1,5 +1,5 @@
 {
-  "name": "checkain",
+  "name": "mr",
   "private": true,
   "scripts": {
     "start": "meteor run"
